@@ -72,10 +72,10 @@ export default {
   width: 250px;
   box-shadow: 0 3px 15x rgb(74, 62, 62);
 }
-input[type="text"] {
+input {
   width: 250px;
   border: 1;
-  color: #243849;
+  color: #207d61;
   font-size: 18px;
   padding: 5px 5px;
   text-align: right;
